@@ -8,7 +8,7 @@ public class DemoApplication {
 
 
 	public static void main(String[] args) {
-                System.out.println("CI/CD testing");
+                System.out.println("CI/CD testing 12345");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
